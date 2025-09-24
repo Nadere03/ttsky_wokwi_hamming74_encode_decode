@@ -10,6 +10,7 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 Just a simple adder. For now...
+I will replace this by an HDL design later. :)
 
 ## How to test
 
