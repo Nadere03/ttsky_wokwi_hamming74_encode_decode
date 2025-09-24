@@ -13,7 +13,7 @@ Just a simple adder. For now...
 
 ## How to test
 
-Explain how to use your project
+Adds two numbers and a carry, outputs the result and the carry.
 
 ## External hardware
 
